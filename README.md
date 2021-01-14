@@ -17,6 +17,11 @@ an adaptive manipulation traces extraction network (AMTEN), which serves as pre-
 Please consult our [paper](https://arxiv.org/abs/2005.04945) for more information.
 
 ## Requirement
+- python 2.7
+- caffe
+- lmdb
+
+## Usage
 
 
 ## Datasets
