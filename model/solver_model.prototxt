@@ -1,0 +1,18 @@
+net: "/home/caffegpu/Desktop/model/AMTENnet.prototxt"
+ 
+test_iter: 620
+test_interval: 1000
+test_initialization: false
+display: 1000
+average_loss: 40
+base_lr: 0.001
+lr_policy: "step"
+stepsize: 1000
+gamma: 0.5
+max_iter: 18170
+momentum: 0.95
+type:"SGD"
+weight_decay: 0.005
+#snapshot: 1000
+snapshot_prefix: "/home/caffegpu/Desktop/model/snapshot" 
+solver_mode: GPU
