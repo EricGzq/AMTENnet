@@ -22,13 +22,15 @@ Please consult our [paper](https://arxiv.org/abs/2005.04945) for more informatio
 - lmdb
 
 ## Usage
+* The image data needs to be converted into lmdb format for caffe.
+* The paths of files in the folder `model` need to be modified.
 
+Use following command to train the model.
+`sh train.sh`
 
 ## Datasets
-
-
-## Results
-
+Hybrid fake face (HFF) dataset: It is a fake face dataset proposed in our paper. If you want to download it, please refer to this [link](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset).
+FaceForensics++ (FF++) dataset: It is a famous open source fake face video dataset, from which we extract 60k face frames for our experiments. If you want to get these face frames, you need to send us an [email](mailto:guozhiqing@hnu.edu.cn) according to the requirements of HFF dataset to get the download link.
 
 
 
