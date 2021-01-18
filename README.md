@@ -34,7 +34,7 @@ Hybrid fake face (HFF) dataset: It is a fake face dataset proposed in our paper.
 FaceForensics++ (FF++) dataset: It is a famous open source fake face video dataset, from which we extract 60k face frames for our experiments. If you want to get these face frames, you need to send us an [email](mailto:guozhiqing@hnu.edu.cn) according to the requirements of HFF dataset to get the download link.
 
 
-
+## Citation
 Please cite our paper if the code or dataset is used in your research:
 ```
 @article{article,
