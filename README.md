@@ -46,3 +46,6 @@ title = {Fake face detection via adaptive manipulation traces extraction network
 journal = {arXiv}
 }
 ```
+
+## Acknowledgments
+Our code is inspired by [MISLnet](https://gitlab.com/MISLgit/constrained-conv-TIFS2018/).
