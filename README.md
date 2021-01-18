@@ -22,10 +22,11 @@ Please consult our [paper](https://arxiv.org/abs/2005.04945) for more informatio
 - lmdb
 
 ## Usage
-* The image data needs to be converted into lmdb format for caffe.
-* The paths of files in the folder `model` need to be modified.
+- The image data needs to be converted into lmdb format for caffe.
+- The paths of files in the folder `model` need to be modified.
 
 Use following command to train the model.
+
 `sh train.sh`
 
 ## Datasets
